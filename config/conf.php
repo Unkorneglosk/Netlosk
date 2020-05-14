@@ -12,6 +12,7 @@ $config['database']['password'] = '';
 $config['name'] = 'Netlosk';
 $config['template'] = 'default';
 $config['root'] = 'http://localhost/netlosk2';
+$cinfig['passCurrentVersion'] = '2';
 
 //Locale Configuration
 $config['locale']['default'] = 'fr';

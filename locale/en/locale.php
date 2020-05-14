@@ -2,7 +2,7 @@
 if (!defined('APP')) exit;
 
 $locale = array (
-  'name' => 'Français';
-  'code' => 'fr';
+  'name' => 'English';
+  'code' => 'en';
   
 );
