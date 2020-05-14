@@ -7,6 +7,7 @@ $config['database']['host'] = 'localhost';
 $config['database']['name'] = '';
 $config['database']['user'] = '';
 $config['database']['password'] = ''; 
+$config['database']['prefix'] = 'netlosk_'; 
 
 //coreLosk Main config
 $config['name'] = 'Netlosk';
